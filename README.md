@@ -1,6 +1,10 @@
 ![](https://blog.infoempleo.com/media/2017/11/ThinkstockPhotos-537331536-881x399.gif)
-### Soy un estudiante del Instituto Tecnologuico de Tijuana, los lenguajes que manejo son C# y C++. Me encuentro cursando el séptimo semestre de mi carreara. 
+### Soy un estudiante del Instituto Tecnologuico de Tijuana, me encuentro cursando el séptimo semestre de mi carreara. 
 
+###Lenguajes que manejo:
+| C#   | C++ |
+|------|-----|
+| HTML | SQL |
 <!--
 **Dany305/Dany305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
