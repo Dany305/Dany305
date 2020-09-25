@@ -1,5 +1,5 @@
 ![](https://blog.infoempleo.com/media/2017/11/ThinkstockPhotos-537331536-881x399.gif)
-### Hi there 👋
+### Soy un estudiante del Instituto Tecnologuico de Tijuana, los lenguajes que manejo son C# y C++
 
 <!--
 **Dany305/Dany305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
