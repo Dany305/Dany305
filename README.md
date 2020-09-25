@@ -1,4 +1,4 @@
-![](http://ceti.uanl.mx/wp-content/uploads/2015/10/banner_development-300x86.jpg)
+![](https://blog.infoempleo.com/media/2017/11/ThinkstockPhotos-537331536-881x399.gif)
 ### Hi there 👋
 
 <!--
